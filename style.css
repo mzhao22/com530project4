@@ -80,11 +80,12 @@ h1, h4, {
     height: 100%;
     z-index: 1;
 }
-.cover.black{
+
+.cover.black {
     background-color: rgba(0,0,0,.6);
 }
 
-.main .logo{
+.main .logo {
     color: #FFFFFF;
     font-size: 85px;
     font-weight: 300;
